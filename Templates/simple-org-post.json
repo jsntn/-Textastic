@@ -1,0 +1,11 @@
+{
+	"uuid": "28777B38-50EF-4F10-A3C7-1D1D61EB14AB",
+	"category": "Org",
+	"templates": [
+		{
+			"name": "Simple Org Post",
+			"fileExtension": "org",
+			"snippet": "#+TITLE: ${1:title}\n#+DATE: [${2:2024-04-26 Fri 22:10}]\n$3"
+		}
+	]
+}
